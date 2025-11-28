@@ -6,6 +6,7 @@
 
 ## ③アプリのデプロイURL
 デプロイしている場合はURLを記入（任意）
+https://github.com/Kenzzz-creator/memoapp.git
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 〇〇〇〇〇〇〇〇

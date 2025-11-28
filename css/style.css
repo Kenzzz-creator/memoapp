@@ -79,5 +79,16 @@ footer {
 }
 
 .title1 {
-  color: blue;
+  color: white;
+}
+
+body {
+  background-image: url("../img/背景_緑.jpg");
+  background-size: cover; /* 画面いっぱいに拡大 */
+  background-position: center; /* 中央に配置 */
+  background-repeat: no-repeat; /* 繰り返さない */
+}
+
+.main_title {
+  color: white;
 }

@@ -30,25 +30,25 @@ body {
   height: 150px;
 }
 
-.save {
-  width: 50px;
-  background-color: rgba(255, 255, 255, 0.6);
-}
-
-.delete {
-  width: 50px;
-  background-color: rgba(255, 255, 255, 0.6);
-}
-
 .button-area {
   display: flex;
   justify-content: space-around;
 }
 
 .button-area button {
-  cursor: pointer;
-  border-radius: 4px;
-  font-size: 12px;
+  cursor: url("../img/鳥.png"), auto;
+  border-radius: 50px;
+  font-size: 200 px;
+  width: 70px;
+  height: 30px;
+}
+
+.save {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.delete {
+  background-color: rgba(255, 255, 255, 0.6);
 }
 
 .title1 {
